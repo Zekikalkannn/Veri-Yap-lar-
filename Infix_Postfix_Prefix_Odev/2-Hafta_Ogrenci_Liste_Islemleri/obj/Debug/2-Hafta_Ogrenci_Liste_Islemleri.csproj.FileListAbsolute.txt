@@ -1,0 +1,7 @@
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\2-Hafta_Ogrenci_Liste_Islemleri\bin\Debug\2-Hafta_Ogrenci_Liste_Islemleri.exe.config
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\2-Hafta_Ogrenci_Liste_Islemleri\bin\Debug\2-Hafta_Ogrenci_Liste_Islemleri.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\2-Hafta_Ogrenci_Liste_Islemleri\bin\Debug\2-Hafta_Ogrenci_Liste_Islemleri.pdb
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\2-Hafta_Ogrenci_Liste_Islemleri\obj\Debug\2-Hafta_Ogrenci_Liste_Islemleri.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\2-Hafta_Ogrenci_Liste_Islemleri\obj\Debug\2-Hafta_Ogrenci_Liste_Islemleri.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\2-Hafta_Ogrenci_Liste_Islemleri\obj\Debug\2-Hafta_Ogrenci_Liste_Islemleri.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\2-Hafta_Ogrenci_Liste_Islemleri\obj\Debug\2-Hafta_Ogrenci_Liste_Islemleri.pdb

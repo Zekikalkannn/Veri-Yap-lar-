@@ -1,0 +1,7 @@
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Banka_Uygulaması_7_Hafta_Odev\bin\Debug\Banka_Uygulaması_7_Hafta_Odev.exe.config
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Banka_Uygulaması_7_Hafta_Odev\bin\Debug\Banka_Uygulaması_7_Hafta_Odev.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Banka_Uygulaması_7_Hafta_Odev\bin\Debug\Banka_Uygulaması_7_Hafta_Odev.pdb
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Banka_Uygulaması_7_Hafta_Odev\obj\Debug\Banka_Uygulaması_7_Hafta_Odev.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Banka_Uygulaması_7_Hafta_Odev\obj\Debug\Banka_Uygulaması_7_Hafta_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Banka_Uygulaması_7_Hafta_Odev\obj\Debug\Banka_Uygulaması_7_Hafta_Odev.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Banka_Uygulaması_7_Hafta_Odev\obj\Debug\Banka_Uygulaması_7_Hafta_Odev.pdb

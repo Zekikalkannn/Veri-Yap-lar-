@@ -1,0 +1,7 @@
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Infix_Postfix_Prefix_Odev\bin\Debug\Infix_Postfix_Prefix_Odev.exe.config
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Infix_Postfix_Prefix_Odev\bin\Debug\Infix_Postfix_Prefix_Odev.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Infix_Postfix_Prefix_Odev\bin\Debug\Infix_Postfix_Prefix_Odev.pdb
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Infix_Postfix_Prefix_Odev\obj\Debug\Infix_Postfix_Prefix_Odev.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Infix_Postfix_Prefix_Odev\obj\Debug\Infix_Postfix_Prefix_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Infix_Postfix_Prefix_Odev\obj\Debug\Infix_Postfix_Prefix_Odev.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Infix_Postfix_Prefix_Odev\obj\Debug\Infix_Postfix_Prefix_Odev.pdb

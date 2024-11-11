@@ -1,0 +1,7 @@
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Stack_ve_Kuyruk_Yapısı\bin\Debug\Stack_ve_Kuyruk_Yapısı.exe.config
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Stack_ve_Kuyruk_Yapısı\bin\Debug\Stack_ve_Kuyruk_Yapısı.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Stack_ve_Kuyruk_Yapısı\bin\Debug\Stack_ve_Kuyruk_Yapısı.pdb
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Stack_ve_Kuyruk_Yapısı\obj\Debug\Stack_ve_Kuyruk_Yapısı.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Stack_ve_Kuyruk_Yapısı\obj\Debug\Stack_ve_Kuyruk_Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Stack_ve_Kuyruk_Yapısı\obj\Debug\Stack_ve_Kuyruk_Yapısı.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Stack_ve_Kuyruk_Yapısı\obj\Debug\Stack_ve_Kuyruk_Yapısı.pdb

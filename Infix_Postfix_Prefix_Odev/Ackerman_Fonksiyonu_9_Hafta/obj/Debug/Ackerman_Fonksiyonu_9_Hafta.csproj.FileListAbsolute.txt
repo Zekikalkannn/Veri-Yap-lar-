@@ -1,0 +1,7 @@
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Ackerman_Fonksiyonu_9_Hafta\bin\Debug\Ackerman_Fonksiyonu_9_Hafta.exe.config
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Ackerman_Fonksiyonu_9_Hafta\bin\Debug\Ackerman_Fonksiyonu_9_Hafta.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Ackerman_Fonksiyonu_9_Hafta\bin\Debug\Ackerman_Fonksiyonu_9_Hafta.pdb
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Ackerman_Fonksiyonu_9_Hafta\obj\Debug\Ackerman_Fonksiyonu_9_Hafta.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Ackerman_Fonksiyonu_9_Hafta\obj\Debug\Ackerman_Fonksiyonu_9_Hafta.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Ackerman_Fonksiyonu_9_Hafta\obj\Debug\Ackerman_Fonksiyonu_9_Hafta.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Ackerman_Fonksiyonu_9_Hafta\obj\Debug\Ackerman_Fonksiyonu_9_Hafta.pdb

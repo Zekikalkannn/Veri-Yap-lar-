@@ -1,0 +1,7 @@
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Recursive_ile_Standart_Sapma_8_Hafta_Odev\bin\Debug\Recursive_ile_Standart_Sapma_8_Hafta_Odev.exe.config
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Recursive_ile_Standart_Sapma_8_Hafta_Odev\bin\Debug\Recursive_ile_Standart_Sapma_8_Hafta_Odev.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Recursive_ile_Standart_Sapma_8_Hafta_Odev\bin\Debug\Recursive_ile_Standart_Sapma_8_Hafta_Odev.pdb
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Recursive_ile_Standart_Sapma_8_Hafta_Odev\obj\Debug\Recursive_ile_Standart_Sapma_8_Hafta_Odev.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Recursive_ile_Standart_Sapma_8_Hafta_Odev\obj\Debug\Recursive_ile_Standart_Sapma_8_Hafta_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Recursive_ile_Standart_Sapma_8_Hafta_Odev\obj\Debug\Recursive_ile_Standart_Sapma_8_Hafta_Odev.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\Recursive_ile_Standart_Sapma_8_Hafta_Odev\obj\Debug\Recursive_ile_Standart_Sapma_8_Hafta_Odev.pdb

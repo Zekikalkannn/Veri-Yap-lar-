@@ -1,0 +1,7 @@
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\İterasyon_ile_Standart_Sapma_8_odev\bin\Debug\İterasyon_ile_Standart_Sapma_8_odev.exe.config
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\İterasyon_ile_Standart_Sapma_8_odev\bin\Debug\İterasyon_ile_Standart_Sapma_8_odev.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\İterasyon_ile_Standart_Sapma_8_odev\bin\Debug\İterasyon_ile_Standart_Sapma_8_odev.pdb
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\İterasyon_ile_Standart_Sapma_8_odev\obj\Debug\İterasyon_ile_Standart_Sapma_8_odev.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\İterasyon_ile_Standart_Sapma_8_odev\obj\Debug\İterasyon_ile_Standart_Sapma_8_odev.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\İterasyon_ile_Standart_Sapma_8_odev\obj\Debug\İterasyon_ile_Standart_Sapma_8_odev.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\İterasyon_ile_Standart_Sapma_8_odev\obj\Debug\İterasyon_ile_Standart_Sapma_8_odev.pdb

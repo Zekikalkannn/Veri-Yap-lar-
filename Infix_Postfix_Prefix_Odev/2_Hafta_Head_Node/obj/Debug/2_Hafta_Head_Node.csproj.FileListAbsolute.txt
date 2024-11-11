@@ -1,0 +1,7 @@
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\2_Hafta_Head_Node\bin\Debug\2_Hafta_Head_Node.exe.config
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\2_Hafta_Head_Node\bin\Debug\2_Hafta_Head_Node.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\2_Hafta_Head_Node\bin\Debug\2_Hafta_Head_Node.pdb
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\2_Hafta_Head_Node\obj\Debug\2_Hafta_Head_Node.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\2_Hafta_Head_Node\obj\Debug\2_Hafta_Head_Node.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\2_Hafta_Head_Node\obj\Debug\2_Hafta_Head_Node.exe
+C:\Users\Casper\Desktop\YAZILIM DERS PROGRAM\C# Klasörü\Infix_Postfix_Prefix_Odev\2_Hafta_Head_Node\obj\Debug\2_Hafta_Head_Node.pdb
